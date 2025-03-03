@@ -44,6 +44,8 @@ The dataset used in this project is `creditcard_2023.csv`, which contains anonym
 2. Standardizing feature values
 3. Splitting into train, validation, and test sets
 
+Dataset url: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/download?datasetVersionNumber=1
+
 ## Model Training
 
 The neural network model consists of:
